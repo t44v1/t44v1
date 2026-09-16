@@ -1,5 +1,5 @@
 # Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/86025696?v=4" width="200" />
-I'm **X2S**, I like to generate a design/solution for different things, both visually and functionally.
+I'm **Taavi**, I like to generate a design/solution for different things, both visually and functionally.
 
 Thanks for visiting my github profile. Have a great day ahead!
 
@@ -17,5 +17,6 @@ Thanks for visiting my github profile. Have a great day ahead!
   </p>
 </details>
 
-<p>My Websites: https://extaas.netlify.app/</p>
-<p>My Websites: https://n3xu5.netlify.app/</p>
+
+<p>Websites: https://oux.ee</p>
+<p>Websites: https://extaas.com/</p>
